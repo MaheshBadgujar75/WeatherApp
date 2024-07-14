@@ -1,3 +1,5 @@
+window.onload = function(){
+
 let city_input = document.getElementById("cityInput");
 let searchbutton = document.getElementById("searchBtn");
 let locationBtn = document.getElementById("locationBtn");
@@ -282,3 +284,4 @@ city_input.addEventListener(
   (e) => e.key === "Enter" && getUserLocation()
 );
 window.addEventListener("load", getUserLocation);
+}
