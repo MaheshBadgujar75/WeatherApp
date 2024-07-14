@@ -35,19 +35,19 @@ body {
 }
 
 .clear-sky {
-  background-image: url('assets/dawid-zawila--G3rw6Y02D0-unsplash.jpg');
+  background-image: url('Assets/dawid-zawila--G3rw6Y02D0-unsplash.jpg');
 }
 
 .cloudy {
-  background-image: url('assets/daniel-pascoa-tjiPN3e45WE-unsplash.jpg');
+  background-image: url('Assets/daniel-pascoa-tjiPN3e45WE-unsplash.jpg');
 }
 
 .rainy {
-  background-image: url('assets/c-g-JgDUVGAXsso-unsplash.jpg');
+  background-image: url('Assets/c-g-JgDUVGAXsso-unsplash.jpg');
 }
 
 .default {
-  background-image: url('assets/dawid-zawila--G3rw6Y02D0-unsplash.jpg');
+  background-image: url('Assets/dawid-zawila--G3rw6Y02D0-unsplash.jpg');
 }
 
 hr {
